@@ -1,2 +1,2 @@
-# Vertex-for-everyone
+# Vertex-for-none
 our first project
